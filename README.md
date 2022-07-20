@@ -1,3 +1,9 @@
+# Gerenciador de compras construído usando ReactJS
+
+Este é um projeto proposto pela DIO, onde poderíamos construir uma solução
+usando o ReactJS. Neste projeto construi um gerenciador de compras simples
+usando algumas bibliotecas adicionais, como Redux e Styled-components. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
